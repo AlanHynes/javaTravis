@@ -1,0 +1,23 @@
+{
+  "name": "javatravis",
+  "version": "1.0.0",
+  "description": "Basic java program to test Travis",
+  "main": "javaTravisTest.java",
+  "scripts": {
+    "test": "javaTravisTest.java"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanHynes/javaTravis.git"
+  },
+  "keywords": [
+    "testing",
+    "java"
+  ],
+  "author": "Alan Hynes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanHynes/javaTravis/issues"
+  },
+  "homepage": "https://github.com/AlanHynes/javaTravis#readme"
+}
